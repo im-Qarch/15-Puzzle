@@ -3,8 +3,8 @@
 </h5>
 
 <p align='center'>
-  <img src='https://freeimage.host/i/HGWtHJV' alt='15 Puzzle' width='500'/>
-  <img src='https://freeimage.host/i/HGWZyUQ' alt='15 Puzzle' width='500'/>
+  <img src='https://user-images.githubusercontent.com/76614968/220366727-b1e971a5-cb33-4058-8d45-45e49fd7cb23.png' alt='15 Puzzle' width='500'/>
+  <img src='https://user-images.githubusercontent.com/76614968/220366737-330340e2-76a6-4737-9d51-b232b21a342c.png' alt='15 Puzzle' width='500'/>
 </p>
 
 <br>
