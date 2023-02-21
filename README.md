@@ -2,6 +2,11 @@
 <b>15 Puzzle - Interview Test</b>
 </h5>
 
+<p align='center'>
+  <img src='https://freeimage.host/i/HGWtHJV' alt='15 Puzzle' width='500'/>
+  <img src='https://freeimage.host/i/HGWZyUQ' alt='15 Puzzle' width='500'/>
+</p>
+
 <br>
 
 <h5 align='center'>
@@ -48,14 +53,15 @@
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse-lite/generate).
+[Create a repo from this template on GitHub](https://github.com/im-Qarch/15-Puzzle/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit antfu/vitesse-lite my-vitesse-app
-cd my-vitesse-app
+npx degit im-Qarch/15-Puzzle my-15-puzzle-app
+cd my-15-puzzle-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+pnpm dev
 ```
