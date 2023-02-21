@@ -1,0 +1,1 @@
+.tiles_grid{grid-template-columns:repeat(var(--6ba8130e),minmax(0,1fr));grid-template-rows:repeat(var(--6f11c44c),minmax(0,1fr))}
