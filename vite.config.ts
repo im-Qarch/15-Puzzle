@@ -52,6 +52,9 @@ export default defineConfig({
     Unocss(),
   ],
 
+  // for gh-pages publish assets
+  base: '/15-Puzzle/',
+
   // https://github.com/vitest-dev/vitest
   test: {
     environment: 'jsdom',

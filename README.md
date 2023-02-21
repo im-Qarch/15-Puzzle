@@ -1,6 +1,6 @@
-<h5 align='center'>
+<h2 align='center'>
 <b>15 Puzzle - Interview Test</b>
-</h5>
+</h2>
 
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/76614968/220366727-b1e971a5-cb33-4058-8d45-45e49fd7cb23.png' alt='15 Puzzle' width='500'/>
@@ -8,6 +8,10 @@
 </p>
 
 <br>
+
+<h2 align='center'>
+<b>Demo <a href="https://im-qarch.github.io/15-Puzzle/">Here !</a></b>
+</h2>
 
 <h5 align='center'>
 <b>Baed on Lightweight version of <a href="https://github.com/antfu/vitesse">Vitesse</a></b>
